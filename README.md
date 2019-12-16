@@ -1,1 +1,1 @@
-# IEEE_SB_Passau_Advent_Calendar_2019
+Solutions to programming problems of the [IEEE SB Passau Advent Calendar 2019](https://advent.ieee.uni-passau.de/advent)

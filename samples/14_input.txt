@@ -1,0 +1,8 @@
+100
+4
+Weihnachtsmann
+Axt
+Actionfigur
+Ball
+
+{"Weihnachtsmann":{"Weihnachtsmann":"false","Axt":"false","Actionfigur":"Fledermausmann Actionfigur","Ball":"false"},"Axt":{"Weihnachtsmann":"false","Axt":"false","Actionfigur":"false","Ball":"false"},"Actionfigur":{"Weihnachtsmann":"false","Axt":"false","Actionfigur":"false","Ball":"false"},"Ball":{"Weihnachtsmann":"false","Axt":"false","Actionfigur":"false","Ball":"false"}}
